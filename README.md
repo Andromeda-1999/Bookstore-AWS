@@ -2,7 +2,7 @@
 
 Welcome to the Wisdomly Online Bookstore repository. This project demonstrates a fully functional online bookstore using AWS, Stripe for payments, and React for the frontend.
 
-# Project Link:
+## Project Link
 
 https://dfxyqzum0c3c9.cloudfront.net/
 
